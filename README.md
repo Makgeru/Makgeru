@@ -53,8 +53,7 @@ I'm a dedicated graduate in **Mathematical Sciences** with a strong foundation i
 
 ---
 
-### 📫 How to Reach Me
-- **Email:** [kamokwala02@gmail.com](mailto:kamokwala02@gmail.com)
+### 📫 Where to find me
 - **LinkedIn:** [Kamogelo Makgeru](https://linkedin.com/in/kamogelo-makgeru)
 - **GitHub:** [KamogeloMakgeru](https://github.com/KamogeloMakgeru)
 
@@ -68,3 +67,9 @@ I'm a dedicated graduate in **Mathematical Sciences** with a strong foundation i
 ---
 
 > 🚀 *Let’s connect and create something amazing!*
+<table>
+  <tr>
+    <td width="150">
+      <img src="" alt="Kamogelo Makgeru" style="border-radius: 50%; width: 100px;">
+    </td>
+</table>

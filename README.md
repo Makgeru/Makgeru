@@ -26,9 +26,11 @@ I'm a dedicated graduate in **Mathematical Sciences** with a strong foundation i
 <a href="https://www.linkedin.com/in/kamogelo-makgeru-781498138/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://your-portfolio.com" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
+
 ---
 
 ### 🛠️ Skills & Tools
@@ -49,6 +51,7 @@ I'm a dedicated graduate in **Mathematical Sciences** with a strong foundation i
 - **Research Paper:** [Approximating Finite Families of Resolvents](#)
 - **Honors Degree:** BSc Honours in Mathematical Sciences
 - **Volunteer Experience:** ICT Student Assistant at University
+
 ---
 
 ### 📂 Featured Projects

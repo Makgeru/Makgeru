@@ -26,9 +26,10 @@ I'm a dedicated graduate in **Mathematical Sciences** with a strong foundation i
 <a href="https://www.linkedin.com/in/kamogelo-makgeru-781498138/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://sites.google.com/view/kamogelo-makgeru/home" target="_black">
-  <img src="https://www.google.com/imgres?q=my%20portfolio%20logo%20design&imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fportfolio-word-pencil-letter-i-art-design-gallery-concept-vector-conceptual-creative-logo-poster-made-153118072.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fportfolio-word-pencil-letter-i-art-design-gallery-concept-vector-conceptual-creative-logo-poster-made-image153120706&docid=khmc-gBIMiM9iM&tbnid=_3ewjgLPVgYaMM&vet=12ahUKEwizs8DtqeWOAxXTVkEAHXkoKfAQM3oECE0QAA..i&w=800&h=481&hcb=2&ved=2ahUKEwizs8DtqeWOAxXTVkEAHXkoKfAQM3oECE0QAAstyle=for-the-badge&logo=About.me&logoColor=mauve"/>
+<a href="https://your-portfolio.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
+
 - **GitHub:** [KamogeloMakgeru](https://github.com/KamogeloMakgeru)
 - --
 

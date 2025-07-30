@@ -27,10 +27,10 @@ I'm a dedicated graduate in **Mathematical Sciences** with a strong foundation i
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://your-portfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-a7f3d0?style=for-the-badge&logo=About.me&logoColor=black" />
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
-- **GitHub:** [KamogeloMakgeru](https://github.com/KamogeloMakgeru)
-- --
+----
+
 
 ### 🛠️ Skills & Tools
 - **Languages & Frameworks:** Java, LaTeX, SQL, C++, HTML

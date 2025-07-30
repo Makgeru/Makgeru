@@ -19,16 +19,13 @@ Here are some ideas to get you started:
 ### 🌟 About Me
 I'm a dedicated graduate in **Mathematical Sciences** with a strong foundation in analytical and problem-solving skills. My passion lies at the intersection of **mathematics, technology, and impactful solutions**. 
 
+- 📜 Published a research paper on **Fixed Point Problems and Convex Functions**
+  
+---
 ### 📫 Where to find me
 - **LinkedIn:** [Kamogelo Makgeru](https://linkedin.com/in/kamogelo-makgeru)
 - **GitHub:** [KamogeloMakgeru](https://github.com/KamogeloMakgeru)
-
-- 🌍 Based in Pretoria, South Africa 🇿🇦
-- 📜 Published a research paper on **Fixed Point Problems and Convex Functions**
-- 🎓 Currently pursuing opportunities in **Data Analytics**, **Actuarial Science**, and **Mathematical Biology**
-- 🤖 Exploring my interests in **software engineering** and **sustainability**
-
----
+- --
 
 ### 🛠️ Skills & Tools
 - **Languages & Frameworks:** Java, LaTeX, SQL, C++, HTML

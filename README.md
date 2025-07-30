@@ -26,8 +26,8 @@ I'm a dedicated graduate in **Mathematical Sciences** with a strong foundation i
 <a href="https://www.linkedin.com/in/kamogelo-makgeru-781498138/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://your-blog.com" target="_blank">
-  <img src="https://img.shields.io/badge/Blog-86efac?style=for-the-badge&logo=medium&logoColor=black" />
+<a href="https://your-portfolio.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-a7f3d0?style=for-the-badge&logo=About.me&logoColor=black" />
 </a>
 - **GitHub:** [KamogeloMakgeru](https://github.com/KamogeloMakgeru)
 - --

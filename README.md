@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 ### 🌟 About Me
 I'm a dedicated graduate in **Mathematical Sciences** with a strong foundation in analytical and problem-solving skills. My passion lies at the intersection of **mathematics, technology, and impactful solutions**. 
 
+### 📫 Where to find me
+- **LinkedIn:** [Kamogelo Makgeru](https://linkedin.com/in/kamogelo-makgeru)
+- **GitHub:** [KamogeloMakgeru](https://github.com/KamogeloMakgeru)
+
 - 🌍 Based in Pretoria, South Africa 🇿🇦
 - 📜 Published a research paper on **Fixed Point Problems and Convex Functions**
 - 🎓 Currently pursuing opportunities in **Data Analytics**, **Actuarial Science**, and **Mathematical Biology**
@@ -44,7 +48,6 @@ I'm a dedicated graduate in **Mathematical Sciences** with a strong foundation i
 - **Research Paper:** [Approximating Finite Families of Resolvents](#)
 - **Honors Degree:** BSc Honours in Mathematical Sciences
 - **Volunteer Experience:** ICT Student Assistant at University
-
 ---
 
 ### 📂 Featured Projects
@@ -53,13 +56,8 @@ I'm a dedicated graduate in **Mathematical Sciences** with a strong foundation i
 
 ---
 
-### 📫 Where to find me
-- **LinkedIn:** [Kamogelo Makgeru](https://linkedin.com/in/kamogelo-makgeru)
-- **GitHub:** [KamogeloMakgeru](https://github.com/KamogeloMakgeru)
 
----
-
-### 🌟 Fun Facts
+# 🌟 Fun Facts
 - ♟️ I enjoy playing chess and improving my strategy.
 - 📸 Passionate about photography and art in my free time.
 - 💡 Always curious and eager to learn new skills.

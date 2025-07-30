@@ -29,21 +29,7 @@ I'm a dedicated graduate in **Mathematical Sciences** with a strong foundation i
 <a href="https://your-portfolio.com" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/YOUR_USERNAME" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-<a href="mailto:your.email@example.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://your-portfolio.com" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-</a>
-----
-
+---
 
 ### 🛠️ Skills & Tools
 - **Languages & Frameworks:** Java, LaTeX, SQL, C++, HTML

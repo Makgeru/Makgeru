@@ -22,7 +22,10 @@ I'm a dedicated graduate in **Mathematical Sciences** with a strong foundation i
 - 📜 Published a research paper on **Fixed Point Problems and Convex Functions**
   
 ---
-### 📫 Where to find me
+### 🤝 Connect with me 
+<a href="[Kamogelo Makgeru](https://linkedin.com/in/kamogelo-makgeru)" target=-"blank">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 - **LinkedIn:** [Kamogelo Makgeru](https://linkedin.com/in/kamogelo-makgeru)
 - **GitHub:** [KamogeloMakgeru](https://github.com/KamogeloMakgeru)
 - --

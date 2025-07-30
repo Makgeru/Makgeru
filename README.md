@@ -23,10 +23,9 @@ I'm a dedicated graduate in **Mathematical Sciences** with a strong foundation i
   
 ---
 ### 🤝 Connect with me 
-<a href="[Kamogelo Makgeru](https://linkedin.com/in/kamogelo-makgeru)" target="_blank">
+<a href="https://www.linkedin.com/in/kamogelo-makgeru-781498138/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-- **LinkedIn:** [Kamogelo Makgeru](https://linkedin.com/in/kamogelo-makgeru)
 - **GitHub:** [KamogeloMakgeru](https://github.com/KamogeloMakgeru)
 - --
 
